@@ -1,0 +1,5 @@
+base_SR = 9
+
+cube_x = 0.45 и cube_y = 0.15  SR = 4
+
+obs_noise = 0.027 SR = 4
